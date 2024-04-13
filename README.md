@@ -1,6 +1,6 @@
 # atguigu-ssm
 尚硅谷新版SSM框架全套[视频教程](https://www.bilibili.com/video/BV1AP411s7D7/)，Spring6+SpringBoot3最新SSM企业级开发相关
-在线MD地址：https://www.wolai.com/oacbJpH1wPzGNoMAVnoELR
+在线MD地址：[https://www.wolai.com/oacbJpH1wPzGNoMAVnoELR](https://www.wolai.com/v5Kuct5ZtPeVBk4NBUGBWF)
 ## 教案
 - [一、高效构建Java应用：Maven入门和进阶](./一、高效构建Java应用：Maven入门和进阶/一、高效构建Java应用：Maven入门和进阶.md)
 - [二、SpringFramework实战指南](./二、SpringFramework实战指南/二、SpringFramework实战指南.md)
